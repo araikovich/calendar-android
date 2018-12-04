@@ -1,4 +1,4 @@
-package com.example.tigranchilingarian.android.di
+package com.example.tigranchilingarian.android.di.module
 
 import com.google.gson.Gson
 import com.google.gson.GsonBuilder

@@ -1,4 +1,4 @@
-package com.example.tigranchilingarian.android.di
+package com.example.tigranchilingarian.android.di.module
 
 import android.content.Context
 import com.example.tigranchilingarian.android.App

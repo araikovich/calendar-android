@@ -1,5 +1,6 @@
-package com.example.tigranchilingarian.android.di
+package com.example.tigranchilingarian.android.di.component
 
+import com.example.tigranchilingarian.android.di.module.HomeScreenModule
 import com.example.tigranchilingarian.android.ui.home.HomeActivity
 import com.example.tigranchilingarian.android.ui.home.HomePresenter
 import dagger.Subcomponent

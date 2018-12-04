@@ -1,4 +1,4 @@
-package com.example.tigranchilingarian.android.di
+package com.example.tigranchilingarian.android.di.module
 
 import com.example.tigranchilingarian.android.ui.home.HomeActivity
 import dagger.Module

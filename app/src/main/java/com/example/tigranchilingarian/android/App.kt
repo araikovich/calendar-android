@@ -1,9 +1,9 @@
 package com.example.tigranchilingarian.android
 
 import android.app.Application
-import com.example.tigranchilingarian.android.di.AppComponent
-import com.example.tigranchilingarian.android.di.AppModule
-import com.example.tigranchilingarian.android.di.DaggerAppComponent
+import com.example.tigranchilingarian.android.di.component.AppComponent
+import com.example.tigranchilingarian.android.di.component.DaggerAppComponent
+import com.example.tigranchilingarian.android.di.module.AppModule
 
 class App : Application() {
 

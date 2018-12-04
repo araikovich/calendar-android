@@ -2,7 +2,7 @@ package com.example.tigranchilingarian.android.ui.home
 
 import android.os.Bundle
 import androidx.databinding.DataBindingUtil
-import com.example.tigranchilingarian.android.di.HomeScreenModule
+import com.example.tigranchilingarian.android.di.module.HomeScreenModule
 import com.example.tigranchilingarian.android.ui.core.BaseActivityWithPresenter
 import com.example.tigranchilingarian.android.ui.core.Layout
 import com.example.tigranchilingarian.android.ui.core.WithBinding

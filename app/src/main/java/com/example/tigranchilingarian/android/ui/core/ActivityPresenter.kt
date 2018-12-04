@@ -8,7 +8,7 @@ abstract class ActivityPresenter<S : BaseScreen>(protected val screen: BaseScree
 
     protected lateinit var resources: Resources
 
-    private var reactiveJob: Job? = null
+    var reactiveJob: Job? = null
 
     open fun onStart() {}
 

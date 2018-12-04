@@ -7,8 +7,8 @@ import android.view.View
 import android.view.inputmethod.InputMethodManager
 import androidx.appcompat.app.AppCompatActivity
 import com.example.tigranchilingarian.android.App
-import com.example.tigranchilingarian.android.data.PreferencesStorage
-import com.example.tigranchilingarian.android.data.PreferencesStorageImpl
+import com.example.tigranchilingarian.android.data.storage.PreferencesStorage
+import com.example.tigranchilingarian.android.data.storage.impl.PreferencesStorageImpl
 import com.example.tigranchilingarian.calendar_android.R
 import com.google.gson.Gson
 
